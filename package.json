@@ -1,0 +1,26 @@
+{
+  "name": "hbn-shz",
+  "version": "1.0.0",
+  "description": "this is my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duzc-90/hbn-shz.git"
+  },
+  "keywords": [
+    "hbn",
+    "scan"
+  ],
+  "author": "duzc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duzc-90/hbn-shz/issues"
+  },
+  "homepage": "https://github.com/duzc-90/hbn-shz#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
